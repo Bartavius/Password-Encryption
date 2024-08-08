@@ -1,1 +1,3 @@
-# Password-Encryption
+This was the first java project I've ever worked on. To run it, just copy the main code into your software and run it as is. Everything is in one main class, as disgusting as it is haha. I've thought about enhancing this project to make it more efficient, but seeing that it was my first java project, I sort of want to leave it amateurish and ugly the way it is for sentimental value.
+
+Running it will prompt the user for some personal information to be entered. Do not fret as fake personal info can be entered. The reason for this is that the original direction for the assignment is to generate a username and password, then encrypt and store a plaintext message when logged in and provided an encryption key (please save the encryption key number when generating encrypted text). It will then split the plaintext across various locations, while staying retrievable through the provision of proper identification
